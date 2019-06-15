@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Softmills Task</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search ...</string>
+    <string name="type_something">Type something in the search bar to search images</string>
+    <string name="upload">Upload</string>
+    <string name="skip">Skip</string>
+    <string name="upload_profile_picture">Upload Profile Picture</string>
+</resources>
